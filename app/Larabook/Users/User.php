@@ -9,8 +9,8 @@ use Laracasts\Commander\Events\EventGenerator;
 use Eloquent, Hash;
 use Laracasts\Presenter\PresentableTrait;
 
+class User extends Eloquent implements UserInterface, RemindableInterface {
 
-//
 	use UserTrait, RemindableTrait, EventGenerator, PresentableTrait, FollowableTrait;
 
     /**
