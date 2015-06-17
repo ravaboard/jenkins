@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/BaseController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/RegistrationController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/FollowsController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Mailers/Mailer.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/UnfollowUserCommandHandler.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/FollowableTrait.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/UserPresenter.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/User.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Handlers/EmailNotifier.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/StatusesController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Forms/PublishStatusForm.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Registration/RegisterUserCommandHandler.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Providers/EventServiceProvider.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/UserRepository.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Registration/RegisterUserCommand.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Statuses/LeaveCommentOnStatusCommand.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Registration/Events/UserHasRegistered.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/vendor/laracasts/commander/src/Laracasts/Commander/CommanderTrait.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/UsersController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Forms/SignInForm.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/FollowUserCommand.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/controllers/CommentsController.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Core/CommandBus.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Forms/RegistrationForm.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Statuses/Comment.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/FollowUserCommandHandler.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Mailers/UserMailer.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Users/UnfollowUserCommand.php</file>
+            <file>file:/C:/Users/WIN8/Code/laravel/app/Larabook/Registration/Events/UserRegistered.php</file>
+        </group>
+    </open-files>
+</project-private>

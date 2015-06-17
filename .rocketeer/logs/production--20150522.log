@@ -1,0 +1,4 @@
+ls: cannot access /home/www/{application_name}/releases: No such file or directory
+/usr/local/bin/composer
+$ bash --login -c '/usr/local/bin/composer require rocketeers/rocketeer-laravel --working-dir="/home/vagrant/.rocketeer"'
+bash --login -c '/usr/local/bin/composer require rocketeers/rocketeer-laravel --working-dir="/home/vagrant/.rocketeer"'
